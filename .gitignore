@@ -1,0 +1,9 @@
+# Ignore internal task notes and private markdown docs
+TASK_02_INCOME_EXPENSE.md
+TASK_*.md
+
+# System files & logs
+*.log
+.DS_Store
+Thumbs.db
+

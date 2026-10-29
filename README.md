@@ -2,7 +2,7 @@
 
 A responsive personal finance dashboard to track cash flow, log income and expenses, and manage budgets in real time.
 
-Live Demo: [View on Vercel](https://your-project-name.vercel.app)
+
 
 ---
 
